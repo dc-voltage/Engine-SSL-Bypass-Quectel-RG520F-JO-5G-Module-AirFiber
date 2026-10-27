@@ -1,4 +1,4 @@
-# Comprehensive Technical Study Guide: Jio AirFiber ODU Provisioning, BLE GATT Handshake, and Embedded Network Architecture
+# Comprehensive Technical  Guide: Jio AirFiber ODU Provisioning, BLE GATT Handshake, and Embedded Network Architecture
 
 **Document Type:** Technical Architecture & Engineering Reference Note  
 **Target Systems:** Jio AirFiber Outdoor Unit (ODU), Android Field Provisioning Engine, Firmware FOTA Image  
